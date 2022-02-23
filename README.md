@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ArielBourgeat
+- 👋 I’m @ArielBourgeat
 - 👀 Interested in AI and machine learning
-- 👨‍💻 I’m currently learning Python and Python programming for AI
-- 🤝 I’m looking to collaborate on AI development worldwide and metaverse creation
-- 📫 How to reach me
+- 👨‍💻 Currently learning Python and Python programming for AI
+- 🤝 Looking to collaborate on AI development worldwide and metaverse creation
+- ⬇ How to reach me ⬇
 -   💬 arielbourgeat@gmail.com
 -   📱 instagram.com/ariel_bourgeat
 
