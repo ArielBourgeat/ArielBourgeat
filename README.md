@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @ArielBourgeat
-- 👀 I’m interested in AI and machine learning
-- 🌱 I’m currently learning Python and Python programming for AI
-- 💞️ I’m looking to collaborate on Ai development and metaverse creation
+- 👀 Interested in AI and machine learning
+- 👨‍💻 I’m currently learning Python and Python programming for AI
+- 🤝 I’m looking to collaborate on AI development worldwide and metaverse creation
 - 📫 How to reach me
--       arielbourgeat@gmail.com
+-   💬 arielbourgeat@gmail.com
+-   📱 instagram.com/ariel_bourgeat
 
 <!---
 ArielBourgeat/ArielBourgeat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
