@@ -4,7 +4,7 @@
 - 🤝 Looking to collaborate on AI development worldwide and metaverse creation
 - ⬇ How to reach me ⬇
 -   💬 arielbourgeat@gmail.com
--   (📱)[instagram.com/ariel_bourgeat]
+-   [📱IG](instagram.com/ariel_bourgeat)
 
 <!---
 ArielBourgeat/ArielBourgeat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
