@@ -27,6 +27,22 @@ Interactive Media Design student with a passion for creative technology, softwar
 ### 🖼️ Selected Work
 
 <table>
+    <tr>
+    <td width="50%" align="center">
+      <a href="https://arielbourgeat.github.io/Portafolio/projects.html#prstudio">
+        <img src="https://arielbourgeat.github.io/Portafolio/Images/prstudio/01-wordmark.png" alt="PRStudio Clothing" />
+      </a>
+      <br /><b>PRStudio Clothing</b>
+      <br /><sub>Brand identity / clothing</sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://arielbourgeat.github.io/Portafolio/project-libera.html">
+        <img src="https://arielbourgeat.github.io/Portafolio/Images/libera/01-landing-hero.png" alt="Líbera Studio" />
+      </a>
+      <br /><b>Líbera Studio</b>
+      <br /><sub>Web design & frontend</sub>
+    </td>
+  </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://arielbourgeat.github.io/Portafolio/project-fitme.html">
@@ -41,22 +57,6 @@ Interactive Media Design student with a passion for creative technology, softwar
       </a>
       <br /><b>Stylized Cave & Town</b>
       <br /><sub>3D environment art</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://arielbourgeat.github.io/Portafolio/projects.html#prstudio">
-        <img src="https://arielbourgeat.github.io/Portafolio/Images/prstudio/01-wordmark.png" alt="PRStudio Clothing" />
-      </a>
-      <br /><b>PRStudio Clothing</b>
-      <br /><sub>Brand identity / clothing</sub>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://arielbourgeat.github.io/Portafolio/project-libera.html">
-        <img src="https://arielbourgeat.github.io/Portafolio/Images/libera/01-landing-hero.png" alt="Líbera Studio" />
-      </a>
-      <br /><b>Líbera Studio</b>
-      <br /><sub>Web design & frontend</sub>
     </td>
   </tr>
 </table>
