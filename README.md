@@ -82,8 +82,7 @@ Interactive Media Design student with a passion for creative technology, softwar
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ArielBourgeat&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielBourgeat&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="./github-metrics.svg" alt="GitHub metrics" />
 </p>
 
 ---
