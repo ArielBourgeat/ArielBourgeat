@@ -17,8 +17,8 @@ Interactive Media Design student with a passion for creative technology, softwar
 
 - 🔭 Currently building projects across **web development**, **interactive media**, and **creative technology**
 - 🎨 I love the space where **design meets code**
-- 🌱 Currently learning **[technology, e.g. Three.js / Blender / TypeScript]**
-- 💬 Ask me about **[e.g. UI design, 3D, front-end]**
+- 🌱 Currently learning **C# for Game development on Unity**
+- 💬 Ask me about **UI design & front-end development**
 
 > *"Everything is designed. Few things are designed well."* — Brian Reed
 
